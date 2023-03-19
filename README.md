@@ -2,11 +2,29 @@
 
 ### AIM
 
+To create a schematic, simulate, and manually layout the PCB for a simple circuit.
+
 ### PROBLEM STATEMENT
+
+Design a circuit of your choice in any simulation software. Upon successful simulation, draw the PCB layout of the designed circuit.
 
 ### EQUIPMENTS REQUIRED
 
+Proteus 8 Professional
+
 ### STEPS
+
+Step 1:
+Choose the desired components for your design.
+
+Step 2:
+Place all components and make the necessary connections.
+
+Step 3:
+After making all the connections, click the run button to start the simulation.
+
+Step 4:
+Finally, manually draw the PCB layout for the circuit.
 
 
 ### CIRCUIT DIAGRAM
@@ -21,4 +39,9 @@
 
 ### MANUAL PCB LAYOUT (Scanned Image)
 
+![ex1](https://user-images.githubusercontent.com/75237886/226192719-e3201948-5a33-4502-a5c9-b9f0c8fc9653.jpeg)
+
+
 ### RESULT
+
+Thus, we have successfully simulated a PCB Design and drawn the layout manually.
